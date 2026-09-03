@@ -10,9 +10,9 @@
 
 ## 🌐 Онлайн‑просмотр
 
-[![View in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?logo=jupyter)](https://nbviewer.org/github/andrewsalmin/chess-analysis/blob/main/lichess_parsing.ipynb)
+[![View in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?logo=jupyter)](https://nbviewer.org/github/andrewsalmin/chess-analysis/blob/main/chess-analysis.ipynb)
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewsalmin/chess-analysis/HEAD?labpath=lichess_parsing.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewsalmin/chess-analysis/HEAD?labpath=chess-analysis.ipynb)
 
 ## 📁 Структура проекта
 
