@@ -14,6 +14,8 @@
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewsalmin/chess-analysis/HEAD?labpath=chess-analysis.ipynb)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewsalmin/chess-analysis/blob/main/chess-analysis.ipynb)
+
 ## 📁 Структура проекта
 
 ```bash
